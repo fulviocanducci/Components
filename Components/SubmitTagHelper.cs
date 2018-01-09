@@ -12,7 +12,7 @@ namespace Components
 
         protected const string Submit_Label = "submit-label";
         protected const string Submit_Disabled = "submit-disabled";
-        protected const string Submit_ClassCss = "submit-class";
+        protected const string Submit_ClassCss = "submit-class"; 
         #endregion
 
         [HtmlAttributeName(Submit_Label)]
